@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Alberto Oliveira 👋
 
-Estudante apaixonado por Tecnologia! Atualmente trabalho como Desenvolvedor FreeLancer e busco uma oportunidade como Desenvolvedor para aplicar minhas habilidades de desenvolvimento e 
+Atualmente trabalho como Desenvolvedor FreeLancer e busco uma oportunidade como Desenvolvedor para aplicar minhas habilidades de desenvolvimento e 
 expandir meus conhecimentos em programação.
 ## Tecnologias que uso no meu dia a dia
 <div style="display: inline_block"><br/>
