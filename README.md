@@ -13,7 +13,7 @@ expandir meus conhecimentos em programação.
 
 ##
 
-![Alberto GitHub stats](https://github-readme-stats.vercel.app/api?username=Alberto-Oliveira00&show_icons=true&theme=dracula)
+![Alberto GitHub stats](https://github-readme-stats.vercel.app/api?username=Alberto-Oliveira00&show_icons=true&theme=radical)
 
 ##
 
