@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Alberto Oliveira 👋
 
-Atualmente atuando como Desenvolvedor Web, trabalhando em projetos pessoais e FreeLancer para evoluir minhas habilidades como desenvolvedor. Busco uma oportunidade como Desenvolvedor para aplicar minhas habilidades de desenvolvimento e expandir meus conhecimentos em programação.
+Atualmente atuando como Desenvolvedor Web, trabalhando em projetos pessoais e FreeLancer com foco em aplicações web, utilizando C# .NET, ASP.NET Core, Minimal APIs, Entity Framework, React e JavaScript. Busco uma oportunidade como Desenvolvedor para aplicar minhas habilidades de desenvolvimento e expandir meus conhecimentos em programação.
 ## Tecnologias que uso no meu dia a dia
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
